@@ -1,0 +1,1 @@
+This is a python project that uses LLM to parse financial 8-K, 10-K, or 10-Q reports for SPY500 companies. The LLM is then prompted to report any new products, along with descriptions of those products, from the parsed reports. 
